@@ -1,12 +1,15 @@
 # 🌱 GreenBeans — Empowering Student Climate Action
 
 **Team Name:** Campus Innovators  
-**Project Title:** *GreenBeans — Protecting our planet is not just our job, it’s our legacy*
+**Project Title:** *GreenBeans — Protecting our planet is not just our job, it's our legacy*
 
 GreenBeans is a web-based platform designed to help schools in Kenya organise, track, and showcase environmental activities. Inspired by the principles of Wangari Maathai, the platform promotes youth empowerment, community engagement, and meaningful participation in climate action.
 
-📺 **Watch a quick demo of GreenBeans:** [YouTube Video](https://youtu.be/VJg2KCJgQAY)  
-📊 **View our presentation:** [GreenBeans Pitch Deck (PPTX)](https://github.com/harriet2005/GreenBeans/raw/main/public/GreensBeans_Track3_WMH25.pptx)
+## 🔗 Project Access
+
+- 🌐 **Live Website:** [GreenBeans Website](https://greensbeans.netlify.app)  
+- 📺 **Demo Video:** [YouTube Video](https://youtu.be/VJg2KCJgQAY)  
+- 📊 **Pitch Deck (PPTX):** [GreenBeans Pitch Deck](https://github.com/harriet2005/GreenBeans/raw/main/public/GreenBeans_Pitch.pptx)
 
 Students can join or connect with environmental clubs, participate in verified climate-action activities, and collaborate with partner organisations through weekly or monthly challenges.
 
@@ -86,7 +89,7 @@ Action: Expand infrastructure from Supabase to larger cloud platforms. Provide A
 
 ## 🌍 Long-Term Vision
 
-A nationwide digital ecosystem where young people lead meaningful climate action — aligned with Wangari Maathai’s values of grassroots empowerment, community service, and environmental stewardship.
+A nationwide digital ecosystem where young people lead meaningful climate action — aligned with Wangari Maathai's values of grassroots empowerment, community service, and environmental stewardship.
 
 ---
 
@@ -109,6 +112,49 @@ A nationwide digital ecosystem where young people lead meaningful climate action
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/harriet2005/GreenBeans.git
    cd GreenBeans
+```
+
+2. Install frontend dependencies:
+```bash
+   npm install
+```
+
+3. Configure environment variables:
+   Create `.env.local` and add:
+```ini
+   REACT_APP_SUPABASE_URL=your_supabase_url
+   REACT_APP_SUPABASE_ANON_KEY=your_supabase_key
+```
+
+4. Start the development server:
+```bash
+   npm start
+```
+
+App runs at: http://localhost:3000
+
+---
+
+## 🤝 Contribution
+
+We welcome contributions from developers, educators, and environmental experts.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push the branch
+5. Open a Pull Request
+
+Refer to CONTRIBUTING.md for more guidelines.
+
+---
+
+## 🌳 Guiding Principle
+
+*"When we plant trees, we plant the seeds of peace and hope."*  
+— Prof. Wangari Maathai
+
+GreenBeans empowers students to make small actions that grow into long-term community impact.
