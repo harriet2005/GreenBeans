@@ -6,7 +6,7 @@
 GreenBeans is a web-based platform designed to help schools in Kenya organise, track, and showcase environmental activities. Inspired by the principles of Wangari Maathai, the platform promotes youth empowerment, community engagement, and meaningful participation in climate action.
 
 📺 **Watch a quick demo of GreenBeans:** [YouTube Video](https://youtu.be/VJg2KCJgQAY)  
-📊 **View our presentation:** [GreenBeans Pitch Deck (PPTX)](https://github.com/harriet2005/GreenBeans/raw/main/public/GreenBeans_Track3_WMH25.pptx)
+📊 **View our presentation:** [GreenBeans Pitch Deck (PPTX)](https://github.com/harriet2005/GreenBeans/raw/main/public/GreensBeans_Track3_WMH25.pptx)
 
 Students can join or connect with environmental clubs, participate in verified climate-action activities, and collaborate with partner organisations through weekly or monthly challenges.
 
